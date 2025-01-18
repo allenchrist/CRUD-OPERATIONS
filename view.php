@@ -51,4 +51,3 @@ $result=$conn->query($sql);
             </div>
 </body>
 </html>
-ALLEN IS TYPING
